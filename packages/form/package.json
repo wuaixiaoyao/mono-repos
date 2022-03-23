@@ -1,6 +1,7 @@
 {
-  "name": "form",
+  "name": "@mono-repos/form",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "ac74c284b91ad2dab857dd5be78ba8b06aaa47aa"
 }
