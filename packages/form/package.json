@@ -1,11 +1,11 @@
 {
   "name": "@mono-repos/form",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "ac74c284b91ad2dab857dd5be78ba8b06aaa47aa",
   "dependencies": {
-    "@mono-repos/button": "^0.0.4",
+    "@mono-repos/button": "^0.0.5",
     "lodash": "^4.17.21"
   }
 }
