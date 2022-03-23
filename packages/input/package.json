@@ -4,6 +4,7 @@
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
+    "lodash": "^4.17.21",
     "react": "16.8.5",
     "react-dom": "16.8.5",
     "styled-components": "4.1.3"
