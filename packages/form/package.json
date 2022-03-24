@@ -1,6 +1,6 @@
 {
   "name": "@mono-repos/form",
-  "version": "1.0.9",
+  "version": "1.0.10-alpha.0",
   "main": "index.js",
   "module": "src/index.js",
   "gitHead": "d34357a8071193005ed0c511b585d4be271ca1ba",
