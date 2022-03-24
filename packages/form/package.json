@@ -1,6 +1,6 @@
 {
   "name": "@wuaixiaoyao-lib/form",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "index.js",
   "module": "src/index.js",
   "gitHead": "f4aa13e1edecd11ae66d37e86db326feab029b60",
