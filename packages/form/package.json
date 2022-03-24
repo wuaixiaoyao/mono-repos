@@ -3,7 +3,6 @@
   "version": "1.0.9",
   "main": "index.js",
   "module": "src/index.js",
-  "license": "MIT",
   "gitHead": "d34357a8071193005ed0c511b585d4be271ca1ba",
   "dependencies": {
     "@mono-repos/button": "^0.0.6",
