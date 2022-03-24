@@ -1,9 +1,14 @@
 # monorepo UI Lib
 
+### lerna
+
+- [`lerna` 工作流使用指南](https://zhuanlan.zhihu.com/p/404166248)
+- [lerna 搭建脚手架](https://segmentfault.com/a/1190000040277957#item-4-14)
+
 ### npm 私有仓库
 
 - `verdaccio` 搭建
-- npm 仓库 作用域 e.g. @@mono-repos
+- npm 仓库 组织 e.g. @@mono-repos
 
 ### 参考
 

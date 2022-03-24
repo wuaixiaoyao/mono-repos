@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import Button from "@mono-repos/button";
+import Button from "@wuaixiaoyao-lib/button";
 
 const Form = (props) => {
     return <div>
