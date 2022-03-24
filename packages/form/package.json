@@ -3,9 +3,7 @@
   "version": "1.0.11",
   "main": "index.js",
   "module": "src/index.js",
-  "author": "wuaixiaoyao",
-  "license": "ISC",
-  "gitHead": "24068b6216113708f3ffd16563e0de9005267122",
+  "gitHead": "f4aa13e1edecd11ae66d37e86db326feab029b60",
   "dependencies": {
     "@mono-repos/button": "^0.0.6",
     "lodash": "^4.17.21",

@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "license": "MIT",
   "scripts": {
     "dev": "start-storybook -p 5555",
     "coverage": "jest --coverage",
