@@ -12,7 +12,7 @@
   },
   "gitHead": "bfbc5667bd29e074e183a05d2b2fd4a817b517ff",
   "dependencies": {
-    "@mono-repos/button": "^0.0.6",
+    "@wuaixiaoyao-lib/button": "^0.0.9",
     "lodash": "^4.17.21",
     "react": "16.8.5",
     "react-dom": "16.8.5",
