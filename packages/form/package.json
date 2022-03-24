@@ -4,7 +4,7 @@
   "main": "index.js",
   "module": "src/index.js",
   "license": "MIT",
-  "gitHead": "e0431dc18e0beaf0b5522c3de6d79d1c9423a42b",
+  "gitHead": "d34357a8071193005ed0c511b585d4be271ca1ba",
   "dependencies": {
     "@mono-repos/button": "^0.0.6",
     "lodash": "^4.17.21",
