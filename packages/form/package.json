@@ -1,11 +1,11 @@
 {
-  "name": "@mono-repos/form",
+  "name": "@wuaixiaoyao-lib/form",
   "version": "1.0.10",
   "main": "index.js",
   "module": "src/index.js",
   "author": "wuaixiaoyao",
   "license": "ISC",
-  "gitHead": "206ecae591241c13e5ec5269c1b4808bd23949f9",
+  "gitHead": "24068b6216113708f3ffd16563e0de9005267122",
   "dependencies": {
     "@mono-repos/button": "^0.0.6",
     "lodash": "^4.17.21",

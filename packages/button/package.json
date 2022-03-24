@@ -1,5 +1,5 @@
 {
-  "name": "@mono-repos/button",
+  "name": "@wuaixiaoyao-lib/button",
   "version": "0.0.6",
   "main": "lib/index.js",
   "module": "src/index.js",

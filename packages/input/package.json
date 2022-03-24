@@ -1,5 +1,5 @@
 {
-  "name": "@mono-repos/input",
+  "name": "@wuaixiaoyao-lib/input",
   "version": "0.0.5",
   "main": "lib/index.js",
   "module": "src/index.js",
