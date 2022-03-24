@@ -4,6 +4,9 @@
   "main": "lib/index.js",
   "module": "src/index.js",
   "license": "ISC",
+  "bin": {
+    "cli-test": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
