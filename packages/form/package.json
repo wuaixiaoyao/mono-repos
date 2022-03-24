@@ -3,7 +3,14 @@
   "version": "1.0.12",
   "main": "index.js",
   "module": "src/index.js",
-  "gitHead": "f4aa13e1edecd11ae66d37e86db326feab029b60",
+  "license": "ISC",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "bfbc5667bd29e074e183a05d2b2fd4a817b517ff",
   "dependencies": {
     "@mono-repos/button": "^0.0.6",
     "lodash": "^4.17.21",

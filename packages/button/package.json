@@ -3,6 +3,13 @@
   "version": "0.0.8",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "license": "ISC",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces"
   },
@@ -17,5 +24,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^4.0.0"
   },
-  "gitHead": "f4aa13e1edecd11ae66d37e86db326feab029b60"
+  "gitHead": "bfbc5667bd29e074e183a05d2b2fd4a817b517ff"
 }
