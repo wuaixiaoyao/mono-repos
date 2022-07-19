@@ -3,6 +3,11 @@
   "version": "0.0.9",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "homepage": "https://github.com/wuaixiaoyao/mono-repos/tree/main/packages/button#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuaixiaoyao/mono-repos.git"
+  },
   "license": "ISC",
   "bin": {
     "cli-test": "bin/index.js"
