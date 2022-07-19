@@ -1,15 +1,15 @@
 # @wuaixiaoyao-lib/utils
 > @wuaixiaoyao-lib/utils
 
-## Install
+## 安装
 
-Using npm:
+npm:
 
 ```bash
 $ npm install --save  @wuaixiaoyao-lib/utils
 ```
 
-or using yarn:
+yarn:
 
 ```bash
 $ yarn add @wuaixiaoyao-lib/utils
