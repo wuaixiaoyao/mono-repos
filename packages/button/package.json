@@ -1,6 +1,6 @@
 {
   "name": "@wuaixiaoyao-lib/button",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "main": "lib/index.js",
   "module": "src/index.js",
   "homepage": "https://github.com/wuaixiaoyao/mono-repos/tree/main/packages/button#readme",

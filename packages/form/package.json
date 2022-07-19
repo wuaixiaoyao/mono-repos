@@ -1,6 +1,6 @@
 {
   "name": "@wuaixiaoyao-lib/form",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "main": "index.js",
   "module": "src/index.js",
   "license": "ISC",
@@ -12,7 +12,7 @@
   },
   "gitHead": "bfbc5667bd29e074e183a05d2b2fd4a817b517ff",
   "dependencies": {
-    "@wuaixiaoyao-lib/button": "^0.0.9",
+    "@wuaixiaoyao-lib/button": "^0.0.10",
     "lodash": "^4.17.21",
     "react": "16.8.5",
     "react-dom": "16.8.5",

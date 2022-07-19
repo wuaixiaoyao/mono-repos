@@ -1,6 +1,6 @@
 {
   "name": "@wuaixiaoyao-lib/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "module": "src/index.js",
   "license": "ISC",
@@ -9,7 +9,5 @@
   ],
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {},
-  "peerDependencies": {}
+  }
 }
