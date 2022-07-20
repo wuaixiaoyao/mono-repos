@@ -1,6 +1,6 @@
 {
   "name": "@wuaixiaoyao-lib/utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "module": "src/index.ts",
   "license": "ISC",
