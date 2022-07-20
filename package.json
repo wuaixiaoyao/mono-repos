@@ -4,11 +4,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "homepage": "https://github.com/wuaixiaoyao/mono-repos.git#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wuaixiaoyao/mono-repos.git"
-  },
   "license": "MIT",
   "scripts": {
     "dev": "start-storybook -p 5555",
