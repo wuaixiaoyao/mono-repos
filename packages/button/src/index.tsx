@@ -4,7 +4,7 @@ import React from 'react'
 const Button = styled.button`
   background: blue;
   color: #fff;
-  border-radius: 4px;
+  border-radius: 8px;
   cursor: pointer;
   font-size: 1rem;
   font-weight: 300;

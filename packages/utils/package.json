@@ -2,7 +2,7 @@
   "name": "@wuaixiaoyao-lib/utils",
   "version": "0.0.2",
   "main": "lib/index.js",
-  "module": "src/index.js",
+  "module": "src/index.ts",
   "license": "ISC",
   "files": [
     "lib"
